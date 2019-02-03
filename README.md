@@ -1,6 +1,12 @@
 # Steckelfish
 Stecklefish - a website editor high on UX
 
+***
+
+> Until further notice you are advised not to use Steckelfish because of security reasons.
+
+***
+
 Based on Coast CMS but enhanced to be multilingual, multi-user with support of content blocks and a draft mode publishing workflow. For all enhancements see the website https://steckelfish.org
 
 ## Demo
